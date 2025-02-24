@@ -22,14 +22,15 @@ Rápido e Eficiente: Como o Git é distribuído e armazena tudo localmente, as o
 **Trabalho Offline**: Como cada desenvolvedor tem uma cópia completa do repositório, ele pode trabalhar localmente, sem a necessidade de uma conexão constante à internet.
 
 ## Principais Comandos do Git
-**git init**: Inicializa um novo repositório Git.
-**git clone**: Cria uma cópia local de um repositório remoto.
-**git add:** Adiciona mudanças ao índice de preparação para o commit.
-**git commit:** Registra as alterações feitas no repositório.
-**git push:** Envia as alterações locais para o repositório remoto.
-**git pull:** Atualiza o repositório local com as alterações do repositório remoto.
-**git merge:** Mescla diferentes branches de código.
-**git branch:** Cria, lista ou deleta branches.
+- **git init**: Inicializa um novo repositório Git.
+- **git clone**: Cria uma cópia local de um repositório remoto.
+- **git add**: Adiciona mudanças ao índice de preparação para o commit.
+- **git commit**: Registra as alterações feitas no repositório.
+- **git push**: Envia as alterações locais para o repositório remoto.
+- **git pull**: Atualiza o repositório local com as alterações do repositório remoto.
+- **git merge**: Mescla diferentes branches de código.
+- **git branch**: Cria, lista ou deleta branches.
+
 
 ## Conclusão
 O Git se tornou essencial no desenvolvimento moderno de software devido à sua flexibilidade, rapidez e recursos poderosos. Ele não só permite que desenvolvedores trabalhem de maneira mais eficiente, mas também facilita o trabalho colaborativo e a manutenção de projetos grandes. Se você está iniciando no mundo do desenvolvimento ou já é um desenvolvedor experiente, aprender a utilizar o Git é uma habilidade imprescindível para qualquer profissional da área.
