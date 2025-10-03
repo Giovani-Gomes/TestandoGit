@@ -1,4 +1,4 @@
-# Git: O Sistema de Controle de Versão que Revolucionou o Desenvolvimento de Software
+# Git: O Sistema de Controle de Versão de Software
 
 O Git é um sistema de controle de versão distribuído amplamente utilizado no desenvolvimento de software. Criado por Linus Torvalds, o mesmo criador do Linux, em 2005, o Git foi projetado para lidar com grandes volumes de código, ao mesmo tempo que mantém a integridade e a rastreabilidade das alterações feitas ao longo do tempo.
 
